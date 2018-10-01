@@ -1,0 +1,47 @@
+body{
+  margin: 0;
+}
+header{
+  text-align: center;
+  background-color: 	#FFD700;
+  padding: 40px;
+}
+.squareM{
+  width :571.5px!important;
+  height: auto;
+  margin: auto;
+  margin-top: 50px;
+  border-radius: 10px;
+  background-color: lightgrey;
+  position: relative;
+}
+.square4{
+  display: flex;
+  justify-content: space-between;
+}
+.squareE{
+  padding: 60px 60px!important;
+  margin: 10px;
+  border-radius: 10px;
+  background-color: grey;
+}
+#number0{
+  display: none;
+  font-size: 40px;
+  background-color: lightgrey;
+  border-radius: 10px;
+  position: absolute;
+  padding: 30px 30px;
+}
+#number1{
+  display: none;
+  font-size: 40px;
+  background-color: lightgrey;
+  border-radius: 10px;
+  position: absolute;
+  padding: 30px 30px;
+}
+p{
+  padding: 100px;
+  font-size: 40px;
+}
